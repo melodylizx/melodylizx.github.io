@@ -23,6 +23,7 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
+Hi there!
 
 I’m Melody Li, a research assistant at [Mila – Quebec AI Institute.](https://mila.quebec/en) I am currently working with [Prof. Taylor Webb](https://scholar.google.com/citations?user=WCmrJoQAAAAJ&hl=en) to study the emergence of symbolic reasoning in language models. Previously, I worked with [Prof. Blake Richards](https://sites.google.com/mila.quebec/linc-lab/team/blake?authuser=0) and [Prof. Guillaume Lajoie](https://guillaumelajoie.com/) on tracing the representation geometry of language models.
 
