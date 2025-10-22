@@ -17,18 +17,21 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
-  enabled: true # includes a list of news items
+  enabled: False # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: False
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I’m Melody Li, a research assistant at [Mila – Quebec AI Institute.](https://mila.quebec/en) I am currently working with [Prof. Taylor Webb](https://scholar.google.com/citations?user=WCmrJoQAAAAJ&hl=en) to study the emergence of symbolic reasoning in language models. Previously, I worked with [Prof. Blake Richards](https://sites.google.com/mila.quebec/linc-lab/team/blake?authuser=0) and [Prof. Guillaume Lajoie](https://guillaumelajoie.com/) on tracing the representation geometry of language models.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Broadly, I’m interested in developing neural language systems and deeply understanding their inner workings. My research aims to uncover how large language models learn and represent information, integrating ideas from linguistics, cognitive science, neuroscience, and learning dynamics.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I recently graduated from [McGill University](https://www.mcgill.ca/about/history), where I majored in Computer Science and completed double minors in Statistics and Interdisciplinary Life Sciences.
+
+Outside of research, I enjoy reading, playing the piano, and building puzzles and LEGO sets. Feel free to reach out to me!
+
