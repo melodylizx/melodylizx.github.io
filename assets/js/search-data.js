@@ -68,7 +68,7 @@ ninja.data = [{
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/Melody (Zixuan) Li", "_blank");
+          window.open("https://www.linkedin.com/in/melody-zixuan-li", "_blank");
         },
       },{
         id: 'social-scholar',
