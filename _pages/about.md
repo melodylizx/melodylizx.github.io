@@ -2,7 +2,7 @@
 layout: about
 title: Melody
 permalink: /
-subtitle: "*Last updated 2 Jan, 2026.*"
+subtitle: "Last updated 2 Jan, 2026."
 
 profile:
   align: right
